@@ -8,12 +8,12 @@ Variables/parameters:
 
  - $N_w$ : number of warehouses
  - $N_d$ : number of demand points
- - **$x_{ij}$ : 1 if demand point j is supplied by warehouse i**
- - $c_{ij}$ : cost of supplying demand point j from warehouse i 
- - **$o_{i}$ : 1 if warehouse i is used**
- - $l_i$ : minimum required deliveries to open warehouse i 
- - $u_i$ : maximum capacity of warehouse i
- - $d_i$ : demand at demand point j
+ - **$x_{ij}$ : $1$ if demand point $j$ is supplied by warehouse $i$**
+ - $c_{ij}$ : cost of supplying demand point $j$ from warehouse $i$ 
+ - **$o_{i}$ : $1$ if warehouse $i$ is used**
+ - $l_i$ : minimum required deliveries to open warehouse $i$ 
+ - $u_i$ : maximum capacity of warehouse $i$
+ - $d_i$ : demand at demand point $j$
 
 
 Minimize the objective cost function
