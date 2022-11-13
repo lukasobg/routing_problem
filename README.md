@@ -1,5 +1,3 @@
-# routing_problem
+# Routing problem
 
-Testing how the images look here:
-
-![euclidean_solution](results/euclidean_solution.jpg)
+Check out [results_visualized](results_visualized.md) for plots of optimal solutions.
