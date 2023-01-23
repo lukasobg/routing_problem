@@ -21,7 +21,7 @@ $$\sum_{i=0}^{N_w -1} \sum_{j=0}^{N_d -1} c_{ij} x_{ij},$$
 
 such that
 
-$$l_i*o_i \leq \sum_{j = 0}^{N_{d-1}} x_{ij} d_j \leq u_i*o_i \forall i$$
+$$l_i o_i \leq \sum_{j = 0}^{N_{d-1}} x_{ij} d_j \leq u_i o_i \forall i$$
 
 $$\sum_{i = 0}^{N_w-1} x_{ij} = 1 \forall j$$
 
